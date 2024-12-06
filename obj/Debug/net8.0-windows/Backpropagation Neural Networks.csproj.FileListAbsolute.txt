@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\bin\Debug\net8.0-windows\Backpropagation Neural Networks.exe
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\bin\Debug\net8.0-windows\Backpropagation Neural Networks.deps.json
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\bin\Debug\net8.0-windows\Backpropagation Neural Networks.runtimeconfig.json
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\bin\Debug\net8.0-windows\Backpropagation Neural Networks.dll
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\bin\Debug\net8.0-windows\Backpropagation Neural Networks.pdb
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\obj\Debug\net8.0-windows\Backpropagation_Neural_Networks.Form1.resources
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\obj\Debug\net8.0-windows\Backpropagation Neural Networks.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\obj\Debug\net8.0-windows\Backpropagation Neural Networks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\obj\Debug\net8.0-windows\Backpropagation Neural Networks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\obj\Debug\net8.0-windows\Backpropagation Neural Networks.AssemblyInfo.cs
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\obj\Debug\net8.0-windows\Backpropagation Neural Networks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\obj\Debug\net8.0-windows\Backpropagation Neural Networks.dll
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\obj\Debug\net8.0-windows\refint\Backpropagation Neural Networks.dll
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\obj\Debug\net8.0-windows\Backpropagation Neural Networks.pdb
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\obj\Debug\net8.0-windows\Backpropagation Neural Networks.genruntimeconfig.cache
+C:\Users\User\source\repos\Backpropagation-Neural-Networks\obj\Debug\net8.0-windows\ref\Backpropagation Neural Networks.dll
